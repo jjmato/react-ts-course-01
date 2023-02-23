@@ -1,0 +1,5 @@
+[
+  { "id": 0, "name": "Cortana", "handle": "@cortana" },
+  { "id": 1, "name": "Alexa", "handle": "@alexa" },
+  { "id": 2, "name": "Siri", "handle": "@siri" }
+]
