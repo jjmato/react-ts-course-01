@@ -1,5 +1,20 @@
 [
-  { "id": 0, "name": "Cortana", "handle": "@cortana" },
-  { "id": 1, "name": "Alexa", "handle": "@alexa" },
-  { "id": 2, "name": "Siri", "handle": "@siri" }
+  {
+    "id": 0,
+    "name": "Cortana",
+    "handle": "@cortana",
+    "img": "https://picsum.photos/70"
+  },
+  {
+    "id": 1,
+    "name": "Alexa",
+    "handle": "@alexa",
+    "img": "https://picsum.photos/70"
+  },
+  {
+    "id": 2,
+    "name": "Siri",
+    "handle": "@siri",
+    "img": "https://picsum.photos/70"
+  }
 ]
