@@ -3,18 +3,21 @@
     "id": 0,
     "name": "Cortana",
     "handle": "@cortana",
-    "img": "https://picsum.photos/70"
+    "img": "https://picsum.photos/70",
+    "description": "lorem impsum"
   },
   {
     "id": 1,
     "name": "Alexa",
     "handle": "@alexa",
-    "img": "https://picsum.photos/70"
+    "img": "https://picsum.photos/70",
+    "description": "lorem impsum"
   },
   {
     "id": 2,
     "name": "Siri",
     "handle": "@siri",
-    "img": "https://picsum.photos/70"
+    "img": "https://picsum.photos/70",
+    "description": "lorem impsum"
   }
 ]

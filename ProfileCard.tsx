@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-function ProfileCard({ title, handle, imageSrc }) {
+function ProfileCard({ title, handle, imageSrc, description }) {
   return (
     <div className="card">
       <div className="card-image">
@@ -14,6 +14,7 @@ function ProfileCard({ title, handle, imageSrc }) {
           <p className="title is-4">{title}</p>
           <p className="subtitle is-6">{handle}</p>
         </div>
+        <div className="content">{description}</div>
       </div>
     </div>
   );

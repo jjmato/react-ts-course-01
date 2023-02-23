@@ -27,6 +27,7 @@ export default function App() {
                     title={item.name}
                     handle={item.handle}
                     imageSrc={item.img}
+                    description={item.description}
                   ></ProfileCard>
                 </div>
               );
