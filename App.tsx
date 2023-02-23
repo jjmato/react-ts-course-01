@@ -10,7 +10,11 @@ import data from './pda.json';
 export default function App() {
   return (
     <React.Fragment>
-      <h1>Personal Digital Assistants</h1>
+      <section className="hero is-primary">
+        <div className="hero-body">
+          <p className="title">Personal Digital Assistants</p>
+        </div>
+      </section>
 
       <div className="container">
         <div className="section">
